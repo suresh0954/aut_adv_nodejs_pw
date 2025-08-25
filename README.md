@@ -5,7 +5,7 @@ This repo contains samples for running Playwright tests on BrowserStack using th
 
 # Setup
 
-- Clone the repo git clone -b sdk https://github.com/browserstack/node-js-playwright-browserstack.git and run cd node-js-playwright-browserstack.
+- Clone the repo git clone -b sdk https://github.com/suresh0954/aut_adv_nodejs_pw
 - Set BROWSERSTACK_USERNAME and BROWSERSTACK_ACCESS_KEY as environment variables with your BrowserStack Username and Access Key or update the same in browserstack.yml file.
 - Run npm i to install the dependencies.
 
