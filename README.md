@@ -1,4 +1,4 @@
-#node-js-playwright-browserstack
+# node-js-playwright-browserstack
 This repo contains samples for running Playwright tests on BrowserStack using the browserstack-node-sdk.
 
 BrowserStack Logo
